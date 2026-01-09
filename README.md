@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm Mert</h1>
+<h1 align="center">Hi 👋, I'm Mutlu</h1>
 <h3 align="center">A cybersecurity enthusiast and web developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-mertdincer&label=Profile%20views&color=0e75b6&style=flat" alt="a-mertdincer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imutluambar&label=Profile%20views&color=0e75b6&style=flat" alt="imutluambar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jamiroquaei" target="blank"><img src="https://img.shields.io/twitter/follow/jamiroquaei?logo=twitter&style=for-the-badge" alt="jamiroquaei" /></a> </p>
+<p align="left"> <a href="https://x.com/frommusk_5" target="blank"><img src="https://img.shields.io/twitter/follow/jamiroquaei?logo=twitter&style=for-the-badge" alt="imutluambar" /></a> </p>
 
 - 🔭 I’m currently working on **Hands-on, practical cybersecurity training platform**
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [My Website](https://a-mertdincer.github.io)
+- 👨‍💻 All of my projects are available at [My Website](https)
 
-- 📝 I regularly write articles on [My Blog Page](https://www.lsociety.net)
+- 📝 I regularly write articles on [My Blog Page](https)
 
-- 📫 How to reach me **a.mertdincr@gmail.com**
+- 📫 How to reach me **imutluambar@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://www.d0tslash.tech/cv)
+- 📄 Know about my experiences [My Resume](https)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jamiroquaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamiroquaei" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/a-mertdincer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-mertdincer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ibrahim-mutlu-ambar-76a046249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imutluambar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
