@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imutluambar&label=Profile%20views&color=0e75b6&style=flat" alt="imutluambar" /> </p>
 
-<p align="left"> <a href="https://x.com/frommusk_5" target="blank"><img src="https://img.shields.io/twitter/follow/jamiroquaei?logo=twitter&style=for-the-badge" alt="imutluambar" /></a> </p>
+<p align="left"> <a href="https://x.com/frommusk_5" target="blank"><img src="https://img.shields.io/instagram/follow/imutluambar?logo=twitter&style=for-the-badge" alt="imutluambar" /></a> </p>
 
 - 🔭 I’m currently working on **Hands-on, practical cybersecurity training platform**
 
